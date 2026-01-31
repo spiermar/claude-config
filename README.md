@@ -1,5 +1,7 @@
 # claude-config
 
+General notes about using `claude code`, agents and skills.
+
 ## Agents
 
 ## Skills
