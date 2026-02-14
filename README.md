@@ -1,4 +1,4 @@
-# claude-config
+# oh-no-claudecode
 
 General notes about using `claude code`, agents and skills.
 
