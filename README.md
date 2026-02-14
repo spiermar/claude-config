@@ -10,7 +10,7 @@ General notes about using `claude code`, agents and skills.
 
 - [superpowers](https://github.com/obra/superpowers/tree/main)
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
-- [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills)]
+- [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills)
 
 ## Best Practices
 
