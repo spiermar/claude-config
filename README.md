@@ -42,7 +42,7 @@ Keep interviewing until we've covered everything, then write a complete spec to 
 ### CLAUDE.md
 
 - [obra/CLAUDE.md](https://raw.githubusercontent.com/obra/dotfiles/6e088092406cf1e3cc78d146a5247e934912f6f8/.claude/CLAUDE.md)
-- [spiermar/CLAUDE.md](/CLAUDE.md)
+- [spiermar/CLAUDE.md](/CLAUDE.md.example)
 
 ### Agents
 
