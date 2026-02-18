@@ -16,12 +16,18 @@ General notes about using `claude code`, agents and skills.
 - [superpowers](https://github.com/obra/superpowers/tree/main)
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) / [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/)
 - [ralph](https://github.com/snarktank/ralph)
+- [get-shit-done](https://github.com/gsd-build/get-shit-done)
+- [taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources)
+- [spec-kit](https://github.com/github/spec-kit)
+- [BBMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) / [BMAD Docs](https://docs.bmad-method.org/)
 
 ## Tools
 
 - [claude-me](https://github.com/thedotmack/claude-mem)
 - [context7](https://github.com/upstash/context7)
 - [conductor](https://www.conductor.build/)
+- [beads](https://github.com/steveyegge/beads)
+- [claude-mem](https://github.com/thedotmack/claude-mem)
 
 ## Best Practices
 
